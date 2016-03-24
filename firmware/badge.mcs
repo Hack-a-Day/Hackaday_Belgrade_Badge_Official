@@ -1,0 +1,136 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\PIC_PROJECTS\HAD_badge\kernel.err
+Folder=Intermediary
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\PIC_PROJECTS\HAD_badge\tetris.err
+Folder=Intermediary
+DeviceName=PIC18F24K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|kernel.asm|tetris.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\PIC_PROJECTS\HAD_badge\demo.err
+Folder=Intermediary
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\PIC_PROJECTS\HAD_badge\demo.o
+Folder=Intermediary
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\PIC_PROJECTS\HAD_badge\kernel.o
+Folder=Intermediary
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\PIC_PROJECTS\HAD_badge\kernel.lst
+Folder=Output
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=C:\PIC_PROJECTS\HAD_badge\tetris.lst
+Folder=Output
+DeviceName=PIC18F24K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|kernel.asm|tetris.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=C:\PIC_PROJECTS\HAD_badge\badge.cof
+Folder=Output
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=C:\PIC_PROJECTS\HAD_badge\badge.hex
+Folder=Output
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=C:\PIC_PROJECTS\HAD_badge\demo.lst
+Folder=Output
+DeviceName=PIC18LF25K50
+LanguageToolSuiteID={6B3DAA78-59C1-46DD-B6AA-DBDAE4E06484}
+LanguageToolID={49D3CA3F-D9A3-4518-9943-226A347E8CC7}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo.asm|kernel.asm||<obj>||<lib>||<lkr>|18f25k50_g.lkr||
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{49D3CA3F-D9A3-4518-9943-226A347E8CC7}=C:\Program Files (x86)\Microchip\MPASM Suite\MPASMWIN.exe
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\Program Files (x86)\Microchip\MPASM Suite\mplink.exe

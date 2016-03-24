@@ -1,0 +1,2 @@
+Warning[215] C:\PIC_PROJECTS\HAD_BADGE\DEMO.ASM 2 : Processor superseded by command line.  Verify processor symbol.
+Message[301] C:\PIC_PROJECTS\HAD_BADGE\P18F25K50.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
