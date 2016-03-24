@@ -13,7 +13,7 @@ Read [more about badge development](https://hackaday.io/project/9509-badge-for-h
 
 ## Firmware
 
-The firmware is written in assembly language. The first 0xFFF registers are occupied by a USB bootloader. User
+The firmware is written in assembly language. The first 0x1000 memory locations are occupied by a USB bootloader. User
 code should be compiled to start at 0x1000. The device enters bootloader mode when restarted while attached
 via USB. Please see the linked development project page above for more information.
 
